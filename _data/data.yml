@@ -39,7 +39,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Matt is a dynamic and creative Lead Frontend Engineer with 7+ years experience and a track record of leading teams to develop high quality user-centric solutions
+    Matt is a dynamic and creative Lead Software Engineer with 8+ years experience and a track record of leading teams to develop high quality user-centric solutions
     and driving client satisfaction. Extensive knowledge and hands-on experience in frontend architecture, web design, project management, and testing with a
     proven background in large-scale enterprise application implementations. Highly adept at conveying complex technical information to a variety of
     professional audiences and has presented solutions to internal teams, clients, executives and board members.
@@ -49,6 +49,19 @@ education:
     university: Oklahoma State University
 
 experiences:
+  - role: Senior Full Stack Engineer
+    time: April 2020 - December 2020
+    company: Savvy Lane
+    location: Edmonds, WA
+    details: |
+      Part of a small team building a full real estate web software suite from scratch using contemporary technologies. The team was required to work with abstract requirements and use quick judgmenet to bring the new web application to market quickly.
+
+      _Accomplishments_
+        -	Work closely with CTO and CEO to gather and implement requirements.
+        - Meet daily and work continuously throughout the day with a remote software development team.
+        - Develop front-end using React and Apollo.
+        - Develop back-end using NodeJs and GraphQL.
+
   - role: Senior Frontend Engineer
     time: Sept 2019 - April 2020
     company: Blumira Inc
@@ -133,58 +146,12 @@ experiences:
         - Led quarterly presentations with executive and sales teams showing
         our current progress and gathered impressions on current work
         completed.
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
-
-    - title: Tempo
-      link: "#"
-      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-    - title: Atom
-      link: "#"
-      tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-    - title: Delta
-      link: "#"
-      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-
-  papers:
-    - title: The Art of Computer Programming
-      authors: Donald E. Knuth
-      conference: Addison-Wesley, 1968
-
-    - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-      authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-      conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-    - title: A syntax directed compiler for Algol 60
-      authors: Edgar T. Irons
-      conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
   title: Skills &amp; Proficiencies
   languages: "TypeScript, JavaScript (ES6)"
-  frameworks: "React, Angular, Node"
-  operations: "Docker"
+  frameworks: "Node, React, Redux, Angular, Jest"
+  operations: "Docker, Serverless Architecture"
   tools: "Agile"
-  other: "Leading Teams, Mentor, Firebase, Postgres, GraphQL, MySQL, Git, AWS, Sockets"
+  other: "Leading Teams, Mentor, Firebase, Postgres, GraphQL, MySQL, Git, AWS, Sockets, Storybook"
